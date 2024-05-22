@@ -1,0 +1,11 @@
+C:\!D\Halya\Pglab3 task2\Pglab3 task2\bin\Debug\Pglab3 task2.exe.config
+C:\!D\Halya\Pglab3 task2\Pglab3 task2\bin\Debug\Pglab3 task2.exe
+C:\!D\Halya\Pglab3 task2\Pglab3 task2\bin\Debug\Pglab3 task2.pdb
+C:\!D\Halya\Pglab3 task2\Pglab3 task2\obj\Debug\Pglab3 task2.csproj.AssemblyReference.cache
+C:\!D\Halya\Pglab3 task2\Pglab3 task2\obj\Debug\Pglab3_task2.Properties.Resources.resources
+C:\!D\Halya\Pglab3 task2\Pglab3 task2\obj\Debug\Pglab3 task2.csproj.GenerateResource.cache
+C:\!D\Halya\Pglab3 task2\Pglab3 task2\obj\Debug\Pglab3 task2.csproj.CoreCompileInputs.cache
+C:\!D\Halya\Pglab3 task2\Pglab3 task2\obj\Debug\Pglab3 task2.exe
+C:\!D\Halya\Pglab3 task2\Pglab3 task2\obj\Debug\Pglab3 task2.pdb
+C:\!D\Halya\Pglab3 task2\Pglab3 task2\obj\Debug\Pglab3_task2.Fmmain.resources
+C:\!D\Halya\Pglab3 task2\Pglab3 task2\obj\Debug\Pglab3_task2.fmAbout.resources
